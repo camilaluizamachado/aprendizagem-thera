@@ -1,16 +1,3 @@
-# 📚 Exercícios de Lógica de Programação
-
-## 🛠 Soft Skills
-- Autonomia: buscar soluções na internet (StackOverflow, docs).  
-- Documentar aprendizados no README pessoal.  
-
-## 💻 Hard Skills
-- Estruturas básicas: variáveis, condicionais, laços.  
-- Funções e modularização.  
-- Entrada e saída de dados.
-
----
-
 ## 📁 Exercícios
 
 ### 1️⃣ Calculadora sem interface (`calculadora.py`)
