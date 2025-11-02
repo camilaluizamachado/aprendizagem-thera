@@ -11,7 +11,7 @@
 - Condicional para imprimir números inteiros sem ponto decimal se o resultado for exato.  
 - `try/except` trata entradas inválidas.  
 
-**Como rodar:**  
+*Como rodar:*
 ```bash
 python calculadora.py
 
@@ -26,7 +26,7 @@ Calculadora com GUI usando `Tkinter`. Permite clicar nos botões para digitar n�
 - `eval()` calcula a expressão ao clicar `=`.  
 - Tratamento de erro com `messagebox.showerror`.
 
-**Como rodar:**  
+**Como rodar:**
 ```bash
 python calculadorab.py
 
