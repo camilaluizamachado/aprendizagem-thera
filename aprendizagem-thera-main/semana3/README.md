@@ -1,6 +1,6 @@
-## 📁 Exercícios
+# Exercícios
 
-### 1️⃣ Calculadora sem interface (`calculadora.py`)
+# 1️⃣ Calculadora sem interface (`calculadora.py`)
 
 **Descrição:** Calculadora que roda no terminal. O usuário digita a expressão (ex: `2+3*4`) e recebe o resultado. Aceita decimais, inteiros e operações básicas (+, -, *, /).  
 
@@ -14,4 +14,25 @@
 **Como rodar:**
 ```bash
 python calculadora.py
+
+### 2️⃣ Calculadora com interface gráfica ('calculadorab.py)
+
+Descrição: Calculadora com GUI usando Tkinter. Permite clicar nos botões para digitar números e operações.
+
+Lógica usada:
+
+Criamos uma janela (Tk()) e um campo de entrada (Entry) para o visor.
+
+Botões com command para adicionar números, apagar, limpar ou calcular.
+
+eval() calcula a expressão ao clicar =.
+
+Tratamento de erro com messagebox.showerror.
+
+Como rodar:***
+
+python calculadorab.py
+
+
+A janela abrirá e você poderá interagir com os botões.
 
