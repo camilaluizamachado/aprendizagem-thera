@@ -1,4 +1,4 @@
-# ==== Tabuada: várias formas ====
+# ==== Tabuada:====
 
 num = int(input("Digite o número para a tabuada: "))
 print("\n--- 1️⃣ Usando for simples ---")
