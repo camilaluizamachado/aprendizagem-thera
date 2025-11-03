@@ -1,3 +1,6 @@
+## Treinamento Thera
+Este repositório faz parte do **Treinamento da Thera**, criado para capacitar novos membros a desenvolver habilidades técnicas e comportamentais essenciais para projetos de software.
+
 ## Introdução  
 Este repositório foi criado para ser o meu guia central dentro do programa — tanto para mim, como nova integrante, quanto para os monitores e coordenadores que me acompanham.  
 
