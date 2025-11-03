@@ -47,7 +47,7 @@ Calculadora com GUI usando Tkinter. Permite clicar nos botões para digitar núm
 **Como rodar:**  
 python calculadorab.py
 
-![Visualização](calculadora9.png)
+![Visualização](calculadora9.PNG)
 
 ### 3️⃣ Contagem regressiva (`contagemregressiva.py`)
 
