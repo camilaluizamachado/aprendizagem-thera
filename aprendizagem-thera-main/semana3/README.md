@@ -1,8 +1,5 @@
 # Exercícios de Lógica de Programação
 
-## Objetivo  
-Consolidar lógica de programação e começar a transição do Portugol para Python.
-
 ## Soft Skills  
 - Autonomia: buscar soluções na internet (StackOverflow, docs).  
 - Documentar aprendizados no README pessoal.
