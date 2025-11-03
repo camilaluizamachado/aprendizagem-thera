@@ -79,13 +79,13 @@ python tabuada.py
 
 ## Comandos Git usados
 
-git init
-git add calculadora.py calculadorab.py contagemregressiva.py tabuada.py README.md
-git commit -m "Adiciona exercícios de lógica: calculadora, tabuada e contagem regressiva"
-git remote add origin <URL_DO_REPOSITORIO>
-git push -u origin main
-git checkout -b nome-da-branch
-git status
+- 'git init'
+- 'git add' calculadora.py calculadorab.py contagemregressiva.py tabuada.py README.md
+- git 'commit -m' "Adiciona exercícios de lógica: calculadora, tabuada e contagem regressiva"
+- git 'remote add origin' <URL_DO_REPOSITORIO>
+- git 'push -u origin main'
+- git 'checkout -b' nome-da-branch
+- git 'status'
 
 undefined
 
