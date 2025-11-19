@@ -1,41 +1,29 @@
 # Agenda de Contatos em Python
 
-Este projeto contém duas versões de um sistema de **agenda de contatos** em Python:  
+Sistema de gerenciamento de contatos em Python com duas versões:
 
-1. **Versão em memória (temporária)**  
-2. **Versão persistente usando JSON**
+1. **Versão em memória (temporária)** – os dados são perdidos ao fechar o programa.  
+2. **Versão persistente usando JSON** – os dados são salvos em `agenda.json` e permanecem entre execuções.
 
 ---
 
-## 1. Versão em memória
+## Funcionalidades
 
-- Todos os contatos ficam armazenados apenas na memória durante a execução.  
-- Ao fechar o programa, todos os contatos são perdidos.  
-- Permite:
-  - Adicionar contatos
-  - Listar contatos
-  - Buscar contatos  
+### Versão em memória
+- Adicionar contatos  
+- Listar contatos  
+- Buscar contatos  
+- ⚠️ Limitação: os dados não são salvos após encerrar o programa
 
-**Como usar:**
+### Versão persistente (JSON)
+- Adicionar contatos  
+- Listar contatos  
+- Buscar contatos  
+- Excluir contatos  
+- ✅ Todos os contatos são salvos automaticamente em `agenda.json`
 
-```bash
-python agenda_memoria.py
-Exemplo de uso:
+---
 
-yaml
-Copiar código
-Quantos contatos deseja salvar? 2
-Contato 1:
-Nome: Camila
-Telefone: 11999999999
-Contato 2:
-Nome: Rafael
-Telefone: 11988888888
+## Pré-requisitos
+- Python 3.x instalado
 
-=== Lista de Contatos ===
-Camila               11999999999
-Rafael               11988888888
-
-Digite o nome que deseja buscar: Camila
-Nome: Camila, Telefone: 11999999999
-⚠️ Limitação: ao fechar o programa, os contatos não são salvos.
