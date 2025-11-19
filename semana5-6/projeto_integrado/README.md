@@ -26,18 +26,16 @@ Ele possui uma estrutura modular, separando agenda e tarefas, permitindo fácil 
 ---
 
 
-### Como Rodar
-```markdown
+## Como Rodar
 
-1. Clone o repositório e entre na pasta:
+### 1. Clone o repositório e entre na pasta:
 
-```bash
+
 git clone <URL_DO_REPOSITORIO>
 cd projeto_integrado
 Execute o sistema integrado:
 
-bash
-Copiar código
+
 python main.py
 Use os menus:
 
