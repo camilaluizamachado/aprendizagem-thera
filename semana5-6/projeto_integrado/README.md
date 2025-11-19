@@ -40,8 +40,6 @@ python main.py
 Use os menus:
 
 1 → Agenda
-
 2 → Tarefas
-
 3 → Sair
 
