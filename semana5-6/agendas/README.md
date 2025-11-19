@@ -53,13 +53,19 @@ Buscar contatos
 
 Excluir contatos
 
-Como usar:
+## Como usar
+
+1. Clone o repositório:
+
+```bash
+git clone <URL_DO_REPOSITORIO>
+cd <PASTA_DO_REPOSITORIO>
+Execute o script principal:
 
 bash
 Copiar código
 python agenda_json.py
-Exemplo de uso:
-
+Exemplo de uso
 makefile
 Copiar código
 === Agenda ===
@@ -76,5 +82,4 @@ Contato adicionado.
 Escolha: 2
 === Contatos ===
 Nome: Camila             Telefone: 11999999999
-✅ Todos os contatos ficam salvos no arquivo agenda.json.
-
+✅ Todos os contatos são salvos automaticamente no arquivo agenda.json.
